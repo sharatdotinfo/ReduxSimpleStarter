@@ -1,5 +1,10 @@
 # ReduxSimpleStarter
 
+```
+This is my source from the Udemy course below by @StephenGrider. Even though the name says Redux, it's all in just React. Demonstrating the use of React Components, State, Props, ES6 etc to build a simple YouTube interface - Sharat 
+
+```
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
@@ -23,3 +28,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
